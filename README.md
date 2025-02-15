@@ -2,7 +2,8 @@
 - 👀 I’m interested in Red Teaming 
 - 🌱 I’m currently learning blackhat python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me obotetonny294@gmail.com 
+- 📫 How to reach me obotetonny294@gmail.com
+-WhatsApp/Telegram +256773608579
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
