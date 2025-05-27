@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @obote256
 - 👀 I’m interested in Red Teaming 
 - 🌱 I’m currently learning blackhat python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on my projects and for the team am building up
 - 📫 How to reach me obotetonny294@gmail.com
--WhatsApp/Telegram +256773608579
+-WhatsApp/Telegram +256771572113
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
